@@ -149,13 +149,13 @@ const projectsArr = [
     githubLink: "https://github.com/Cumutoni12/Todo-ListApp",
     liveLink: "https://cumutoni12.github.io/Todo-ListApp/",
     details:
-      'The Bookstore is a website that allows you to: Display a list of books. Add a book. Remove a selected book. This application will be built with React and Redux. The website will have two sub-pages: "Books" and "Categories.',
+      "The to do list  is a website that allowa you to add liat of the things.",
   },
   {
     image: "images/project_screen_shots/metrics-app.png",
     title: "stock-exchange metrics app",
-    githubLink: "https://github.com/Kaweesi-Matia/stock-exchange_metrics-app",
-    liveLink: "https://stock-exchange-metrics-app.vercel.app/",
+    githubLink: "https://github.com/Cumutoni12/stock-exchange-app",
+    liveLink: "https://cumutoni12.github.io/stock-exchange-app",
     details:
       "Metrics-Web-App is a mobile web application to that is used to check a list of metrics (numeric values) that will be created by making use of React and Redux and Data from the ACNH API.",
   },
