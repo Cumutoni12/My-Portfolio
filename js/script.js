@@ -128,43 +128,26 @@ const popUpMenu = (project) => {
 /* Render projects dynamically */
 const projectsArr = [
   {
-    image: "images/project_screen_shots/awesome-books.png",
-    title: "Awesome Books",
-    githubLink: "https://github.com/Kaweesi-Matia/awesome_books-es6",
-    liveLink: "https://kaweesi-matia.github.io/awesome_books-es6/",
+    image: "images/project_screen_shots/Screenshot 2024-11-21 201836.png",
+    title: "Math Calculator",
+    githubLink: "https://github.com/Cumutoni12/Math-Calculator",
+    liveLink: "https://cumutoni12.github.io/Math-Calculator/",
     details:
-      'Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you manage data using JavaScript.',
-  },
-  {
-    image: "images/project_screen_shots/math-magicians.png",
-    title: "Math Magicians",
-    githubLink: "https://github.com/Kaweesi-Matia/math-magicians",
-    liveLink:
-      "https://636a5217b540c60864499f46--voluble-kringle-83abf2.netlify.app/calculator",
-    details:
-      'Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.',
-  },
-  {
-    image: "images/project_screen_shots/space-travellers-hub.png",
-    title: "Space-Travellers-Hub",
-    githubLink: "https://github.com/Kaweesi-Matia/space-travellers-hub",
-    liveLink: "https://golden-pie-f605f6.netlify.app/",
-    details:
-      "In this react app, i used the real live data from the SpaceX API. This web application is for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.",
+      'Math Calculator" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.',
   },
   {
     image: "images/project_screen_shots/leaderboard.png",
     title: "LeaderBoard",
-    githubLink: "https://github.com/Kaweesi-Matia/Leader_Board",
-    liveLink: "https://dazzling-tiramisu-d093d8.netlify.app/",
+    githubLink: "https://github.com/Cumutoni12/leaderBoard",
+    liveLink: " https://cumutoni12.github.io/leaderBoard",
     details:
       "In this project, I set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.",
   },
   {
-    image: "images/project_screen_shots/book-store.png",
-    title: "BookStore",
-    githubLink: "https://github.com/Kaweesi-Matia/book-store-react_redux",
-    liveLink: "https://gentle-fudge-ee2e87.netlify.app/",
+    image: "images/project_screen_shots/to_do_list_2.PNG",
+    title: "To do List",
+    githubLink: "https://github.com/Cumutoni12/Todo-ListApp",
+    liveLink: "https://cumutoni12.github.io/Todo-ListApp/",
     details:
       'The Bookstore is a website that allows you to: Display a list of books. Add a book. Remove a selected book. This application will be built with React and Redux. The website will have two sub-pages: "Books" and "Categories.',
   },
